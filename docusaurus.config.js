@@ -10,9 +10,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  title: 'Weekly Mileage Tracker Docs',
+  tagline: 'Documentation for Weekly Mileage Tracker',
+  favicon: 'img/favicon.svg',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -72,7 +72,7 @@ const config = {
       navbar: {
         title: 'Docs: Weekly Mileage Tracker',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Weekly Mileage Tracker Logo',
           src: 'img/logo.svg',
         },
         items: [
