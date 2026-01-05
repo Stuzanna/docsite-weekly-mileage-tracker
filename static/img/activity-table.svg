@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <!-- Background -->
+  <rect width="400" height="300" fill="#14181f" rx="12"/>
+
+  <!-- Table container -->
+  <rect x="20" y="20" width="360" height="260" fill="#1a1f2e" rx="8"/>
+
+  <!-- Title and Filter -->
+  <text x="30" y="45" font-family="Arial, sans-serif" font-size="16" font-weight="600" fill="#f9fafb">
+    Activities
+  </text>
+
+  <!-- Filter dropdown indicator -->
+  <rect x="300" y="28" width="70" height="24" fill="rgba(255, 82, 0, 0.15)" rx="6" stroke="#ff5200" stroke-width="1"/>
+  <text x="335" y="44" font-family="Arial, sans-serif" font-size="11" fill="#ff7a3d" text-anchor="middle" font-weight="500">
+    Filter ▼
+  </text>
+
+  <!-- Table header -->
+  <rect x="30" y="60" width="340" height="30" fill="rgba(255, 82, 0, 0.1)" rx="4"/>
+  <text x="40" y="78" font-family="Arial, sans-serif" font-size="11" font-weight="600" fill="#ff5200">Date</text>
+  <text x="120" y="78" font-family="Arial, sans-serif" font-size="11" font-weight="600" fill="#ff5200">Type</text>
+  <text x="200" y="78" font-family="Arial, sans-serif" font-size="11" font-weight="600" fill="#ff5200">Distance</text>
+  <text x="290" y="78" font-family="Arial, sans-serif" font-size="11" font-weight="600" fill="#ff5200">Pace</text>
+
+  <!-- Row 1 -->
+  <rect x="30" y="95" width="340" height="28" fill="rgba(26, 31, 46, 0.5)" rx="4"/>
+  <text x="40" y="112" font-family="Arial, sans-serif" font-size="10" fill="#e5e7eb">Jan 05</text>
+  <text x="120" y="112" font-family="Arial, sans-serif" font-size="10" fill="#e5e7eb">Run</text>
+  <text x="200" y="112" font-family="Arial, sans-serif" font-size="10" fill="#e5e7eb">10.2 mi</text>
+  <text x="290" y="112" font-family="Arial, sans-serif" font-size="10" fill="#e5e7eb">8:15</text>
+
+  <!-- Row 2 - Highlighted -->
+  <rect x="30" y="126" width="340" height="28" fill="rgba(255, 82, 0, 0.08)" rx="4" stroke="rgba(255, 82, 0, 0.3)" stroke-width="1"/>
+  <text x="40" y="143" font-family="Arial, sans-serif" font-size="10" fill="#f9fafb">Jan 03</text>
+  <text x="120" y="143" font-family="Arial, sans-serif" font-size="10" fill="#f9fafb">Run</text>
+  <text x="200" y="143" font-family="Arial, sans-serif" font-size="10" fill="#f9fafb">8.5 mi</text>
+  <text x="290" y="143" font-family="Arial, sans-serif" font-size="10" fill="#f9fafb">7:52</text>
+
+  <!-- Row 3 -->
+  <rect x="30" y="157" width="340" height="28" fill="rgba(26, 31, 46, 0.5)" rx="4"/>
+  <text x="40" y="174" font-family="Arial, sans-serif" font-size="10" fill="#e5e7eb">Jan 01</text>
+  <text x="120" y="174" font-family="Arial, sans-serif" font-size="10" fill="#e5e7eb">Run</text>
+  <text x="200" y="174" font-family="Arial, sans-serif" font-size="10" fill="#e5e7eb">12.0 mi</text>
+  <text x="290" y="174" font-family="Arial, sans-serif" font-size="10" fill="#e5e7eb">8:45</text>
+
+  <!-- Row 4 -->
+  <rect x="30" y="188" width="340" height="28" fill="rgba(26, 31, 46, 0.5)" rx="4"/>
+  <text x="40" y="205" font-family="Arial, sans-serif" font-size="10" fill="#e5e7eb">Dec 30</text>
+  <text x="120" y="205" font-family="Arial, sans-serif" font-size="10" fill="#e5e7eb">Run</text>
+  <text x="200" y="205" font-family="Arial, sans-serif" font-size="10" fill="#e5e7eb">6.3 mi</text>
+  <text x="290" y="205" font-family="Arial, sans-serif" font-size="10" fill="#e5e7eb">8:30</text>
+
+  <!-- Row 5 -->
+  <rect x="30" y="219" width="340" height="28" fill="rgba(26, 31, 46, 0.5)" rx="4"/>
+  <text x="40" y="236" font-family="Arial, sans-serif" font-size="10" fill="#e5e7eb">Dec 28</text>
+  <text x="120" y="236" font-family="Arial, sans-serif" font-size="10" fill="#e5e7eb">Run</text>
+  <text x="200" y="236" font-family="Arial, sans-serif" font-size="10" fill="#e5e7eb">9.1 mi</text>
+  <text x="290" y="236" font-family="Arial, sans-serif" font-size="10" fill="#e5e7eb">8:10</text>
+
+  <!-- Results count -->
+  <text x="30" y="265" font-family="Arial, sans-serif" font-size="9" fill="#9ca3af">
+    Showing 5 activities
+  </text>
+
+  <!-- Sort/Filter indicators (small icons) -->
+  <circle cx="355" y="74" r="3" fill="#ff7a3d" opacity="0.6"/>
+  <circle cx="355" y="74" r="1.5" fill="#ff5200"/>
+</svg>

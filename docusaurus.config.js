@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Weekly Mileage Tracker Docs',
-  tagline: 'Documentation for Weekly Mileage Tracker',
+  // tagline: 'Documentation for Weekly Mileage Tracker',
   favicon: 'img/favicon.svg',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -27,8 +27,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'stuzanna', // Usually your GitHub org/user name.
+  projectName: 'docsite-weekly-mileage-tracker', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
