@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Intro
+# Getting Started
 
 Weekly mileage tracker, a.k.a. Stuey's Strava, is a Strava clone, for understanding your activity data over time.
 It's not meant to be as rich as Strava for individual activity data, but to give an overview of many activities.

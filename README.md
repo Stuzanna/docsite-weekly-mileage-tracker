@@ -1,6 +1,6 @@
 # Docsite Weekly Mileage Tracker
 
-Docsite for using the weekly mileage tracker.
+Docsite for using the weekly [mileage tracker](https://weekly-mileage-tracker.vercel.app/).
 
 ## Docusaurus
 
